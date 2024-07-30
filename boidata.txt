@@ -1,0 +1,10 @@
+Name: xyz
+D.O.B:
+Gender:
+Father Name:
+Mother Name:
+Address:
+Hobby:
+
+
+		
